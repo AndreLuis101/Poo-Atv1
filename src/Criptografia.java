@@ -1,6 +1,6 @@
 public class Criptografia {
     public static void main(String[] args) {
-        String message = "Hello", messagecriptografada = "";
+        String message = "hello", messagecriptografada = "";
         int key = 3;
         char[] c = message.toCharArray();
 
